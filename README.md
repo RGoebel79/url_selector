@@ -1,6 +1,6 @@
 To run app:
 
-change directory to /url_selector/node_modules/express
+change directory to /url_selector/node_modules/express in command line.
 
 Run: node index.js (or nodemod)
 
