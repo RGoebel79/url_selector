@@ -1,8 +1,8 @@
 To run app:
 
-clone it and change directory to /url_selector/node_modules/express in command line. App is set to localhost:3000.
+clone it and change directory to /url_selector/node_modules/express in command line.
 
-Run: node index.js (or nodemod)
+Run: node index.js (or nodemod). App is set to localhost:3000.
 
 currently JSON will log to console but not to UI. No outgoing API implemented yet.
 
