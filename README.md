@@ -1,6 +1,6 @@
 To run app:
 
-clone it and change directory to /url_selector/node_modules/express in command line. App is set to port 3000/
+clone it and change directory to /url_selector/node_modules/express in command line. App is set to port 3000.
 
 Run: node index.js (or nodemod)
 
