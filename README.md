@@ -4,7 +4,7 @@ clone it and change directory to /url_selector/node_modules/express in command l
 
 Run: node index.js (or nodemod). App is set to localhost:3000.
 
-currently JSON will log to console but not to UI. No outgoing API implemented yet.
+No outgoing API implemented yet.
 
 
 
