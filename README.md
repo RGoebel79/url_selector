@@ -1,20 +1,7 @@
 To run app:
 
-clone it and change directory to /url_selector/node_modules/express in command line.
+Change directory to /url_selector.
 
-Run: node index.js (or nodemod). App is set to localhost:3000.
+Run: node index.js (or nodemod). App is set to localhost:3000. Enter single company name and click add after every name. Click submit when finished to get URLs.
 
-No outgoing API implemented yet.
-
-
-
-
-
-
-
-[![Express Logo](https://i.cloudup.com/zfY6lL7eFa-3000x3000.png)](http://expressjs.com/)
-
-  Fast, unopinionated, minimalist web framework for [node](http://nodejs.org).
-
-  
-
+API URL format is localhost:3000/api?company=[enter name]&company=[enter next name].
